@@ -1,0 +1,33 @@
+_repo: Montrose_45709
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45709-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Morris, Mowbray
+    alias: Morris, Mowbray Walter
+    birthdate: 1847
+    deathdate: 1911
+    gutenberg_agent_id: '7905'
+    url: http://www.gutenberg.org/2009/agents/7905
+description: This 1892 volume in the English Men of Action series is a biography of
+  James Graham, 1st Marquess of Montrose (1612-1650), a Scottish statesman and soldier
+  whose service for King Charles I earned him the epithet The Great Montrose. After
+  the restoration, he entered the service of Charles II, and in attempt to win back
+  Scotland was captured and hanged.
+gutenberg_issued: '2014-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45709'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: English Men of Action
+subjects:
+- !lcc 'DA'
+- !lcsh 'Montrose, James Graham, Marquis of, 1612-1650'
+- !lcsh 'Great Britain -- History -- Stuarts, 1603-1714'
+title: Montrose
+url: http://www.gutenberg.org/ebooks/45709
