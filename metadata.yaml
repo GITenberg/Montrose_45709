@@ -16,6 +16,8 @@ description: This 1892 volume in the English Men of Action series is a biography
   whose service for King Charles I earned him the epithet The Great Montrose. After
   the restoration, he entered the service of Charles II, and in attempt to win back
   Scotland was captured and hanged.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45709#Montrose
 gutenberg_issued: '2014-05-21'
 gutenberg_type: Text
 identifiers:
